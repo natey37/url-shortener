@@ -1,0 +1,7 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl": "https://www.amazon.com/LeapFrog-80-609540-100-Animals-Book/dp/B085KTQKNC/ref=zg_bs_toys-and-games_home_2?_encoding=UTF8&psc=1&refRID=B2FH9MT97SHRQ31KKRFS"
+}
+
